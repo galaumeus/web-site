@@ -1,0 +1,20 @@
+.banner1 {
+	background-image: url(../../images/pinkmamma.jpg);
+ 	background-size: all;     
+ 	background-position: center;
+ 	font-size: 250px;
+}
+
+.banner1 h1 {
+  color: rgb(227, 0, 53);
+  font-size: 80px;
+  margin-top: 10px;
+}
+
+.banner1 h2 {
+ 	color: white;
+ 	font-size: 50px;
+ 	font-weight: lighter;
+	opacity: 0.8;
+	padding: 150px;
+}

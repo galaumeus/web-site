@@ -1,0 +1,32 @@
+.btn-blue{
+	background-color: blue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-Paris{
+	background-color: blue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	<a href="https://openclassrooms.com">OpenClassrooms</a>
+}
+
+.btn-Lyon{
+	background-color: blue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-Lille{
+	background-color: blue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
